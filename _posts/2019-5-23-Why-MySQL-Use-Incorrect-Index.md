@@ -1,4 +1,4 @@
-# MySQL Optimizer
+### MySQL Optimizer
 
 The optimizer can make row estimates using index dives or index statistics.
 
